@@ -1,5 +1,5 @@
 # CTC23
-This is the home repository for [CTC23: the future of the city](https://codethecity.org/ctc23-the-future-of-the-city/), which runs Saturday 11th June 2021 and Sunday 12th June 2021. This is a continuation of [CTC21: Put Your City on the Map](https://github.com/CodeTheCity/CTC21)
+This is the home repository for [CTC23: the future of the city](https://codethecity.org/ctc23-the-future-of-the-city/), which runs Saturday 11th June 2021 and Sunday 12th June 2021. The Miro board of ideas and work captured concepts well [CTC23 Miro Board](https://miro.com/app/board/o9J_lCg_wDo=/)
 
 On Saturday we had 11 participants working on 2 challenges. On Sunday we had ?? participants working on ? challenges.
 
