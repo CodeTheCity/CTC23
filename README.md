@@ -13,6 +13,7 @@ We used of Miro again to capture notes and ideas in the teams. Participants were
 ## Projects
 
 ### Sound
+[Social Sounds](https://github.com/CodeTheCity/social-sounds)
 Exploring how to bring music to public spaces, while reducing noise pollution.
 
 ### Open Data Catalogue
